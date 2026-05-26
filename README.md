@@ -9,28 +9,28 @@ The project also includes a confidence-threshold experiment to study how detecti
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
-### Threshold Meter and Class Filter
-![Threshold Meter and Filter Classes](screenshots/Threshold Meter and Filter Classes.png)
+### Confidence Threshold and Class Filter
+![Confidence Threshold and Class Filter](screenshots/threshold_filter.png)
 
 ### Detection Summary
-![Detection Summary](screenshots/Detection Summary.png)
+![Detection Summary](screenshots/detection_summary.png)
 
 ### Object Counts
-![Object Counts](screenshots/Object Counts.png)
+![Object Counts](screenshots/object_counts.png)
 
 ### Experiment Results
-![Experiment Results](screenshots/Experiment Results.png)
+![Experiment Results](screenshots/experiment_results.png)
 
 ### Threshold vs Total Detections
-![Threshold vs Total Detections](screenshots/Threshold vs Total Detections Chart.png)
+![Threshold vs Total Detections](screenshots/threshold_total_detections.png)
 
 ### Threshold vs Average Confidence
-![Threshold vs Average Confidence](screenshots/Threshold vs Average Confidence Chart.png)
+![Threshold vs Average Confidence](screenshots/threshold_average_confidence.png)
 
 ### Experiment Interpretation
-![Experiment Interpretation](screenshots/Experiment Interpretation.png)
+![Experiment Interpretation](screenshots/experiment_interpretation.png)
 
 ## Research Question
 
