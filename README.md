@@ -12,7 +12,7 @@ The project also includes a confidence-threshold experiment to study how detecti
 ![Dashboard](screenshots/Dashboard.png)
 
 ### Threshold Meter and Class Filter
-![Threshold Meter and Filter Classes](screenshots/Threshold Meter & Filter Classes.png)
+![Threshold Meter and Filter Classes](screenshots/Threshold Meter and Filter Classes.png)
 
 ### Detection Summary
 ![Detection Summary](screenshots/Detection Summary.png)
