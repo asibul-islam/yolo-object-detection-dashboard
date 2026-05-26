@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+
+# YOLO runs/output folders
+runs/
+
+# Environment variables
+.env
