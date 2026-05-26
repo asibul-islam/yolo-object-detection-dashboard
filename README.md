@@ -9,7 +9,7 @@ The project also includes a confidence-threshold experiment to study how detecti
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/main_dashboard.png)
 
 ### Confidence Threshold and Class Filter
 ![Confidence Threshold and Class Filter](screenshots/threshold_filter.png)
