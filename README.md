@@ -6,6 +6,32 @@ This project is a computer vision dashboard that uses a pretrained YOLOv8 model 
 
 The project also includes a confidence-threshold experiment to study how detection behavior changes when the confidence threshold is adjusted. This makes the project more than a basic YOLO demo because it includes analysis, visualization, and downloadable experiment results.
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Threshold Meter and Class Filter
+![Threshold Meter and Filter Classes](screenshots/Threshold Meter & Filter Classes.png)
+
+### Detection Summary
+![Detection Summary](screenshots/Detection Summary.png)
+
+### Object Counts
+![Object Counts](screenshots/Object Counts.png)
+
+### Experiment Results
+![Experiment Results](screenshots/Experiment Results.png)
+
+### Threshold vs Total Detections
+![Threshold vs Total Detections](screenshots/Threshold vs Total Detections Chart.png)
+
+### Threshold vs Average Confidence
+![Threshold vs Average Confidence](screenshots/Threshold vs Average Confidence Chart.png)
+
+### Experiment Interpretation
+![Experiment Interpretation](screenshots/Experiment Interpretation.png)
+
 ## Research Question
 
 How does changing the confidence threshold affect the number and reliability of detected objects in YOLO-based object detection?
